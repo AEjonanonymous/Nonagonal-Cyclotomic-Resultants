@@ -8,7 +8,7 @@ This repository provides a machine-verified Lean 4 formalization isolating the c
 * **Formal Counterpart (`closed_form_evaluation`):** Proves that substituting the root sum $\zeta + \zeta^{-1}$ into `target_cubic` ($X^3 - 3X + 1$) evaluates identically to zero under the root condition of the 9th cyclotomic polynomial $\Phi_9(z) = z^6 + z^3 + 1 = 0$.
 
 **Research Significance**
-For researchers in automated reasoning and algebraic number theory, this framework offers a non-circular template for formalizing higher-order composite polygon symmetries. By restricting operations to pure ring theory—utilizing Eisenstein's criterion (`shifted_cubic_irreducible`), Gauss's pullback isomorphism (`target_cubic_irreducible_int`), and Chebyshev-analogue degree bounds (`chebyshev_natDegree_le`)—the work demonstrates that complex geometric subfield structures can be cleanly verified without heavy analysis dependencies.
+For researchers in automated reasoning and algebraic number theory, this framework offers a non-circular template for formalizing higher-order composite polygon symmetries. By restricting operations to pure ring theory—utilizing Eisenstein's criterion (`shifted_cubic_irreducible`), Gauss's pullback isomorphism (`target_cubic_irreducible_int`), and Chebyshev-analogue degree bounds (`chebyshev_natDegree_le`); the work demonstrates that complex geometric subfield structures can be cleanly verified without heavy analysis dependencies.
 
 **Formal Verification Pipeline**
 * **Step 1:** Base ring definitions for `phi_nine` ($X^6+X^3+1$), `target_cubic` ($X^3-3X+1$), and `shifted_cubic` ($X^3-3X^2+3$) in $\mathbb{Z}[x]$.
