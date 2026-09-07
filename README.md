@@ -30,9 +30,9 @@ For researchers in automated reasoning and algebraic number theory, this framewo
 
 ## 🤖 Automated AI Model Review
 
-**Mechanical Kernel Replaying (Comparator)**: Verified independently via the Lean kernel and the NanoDa kernel using Comparator, ensuring the codebase builds under standard foundational axioms (propext, Classical.choice, and Quot.sound) with zero usage of sorryAx.
+**Mechanical Kernel Replaying (Comparator)**: Verified independently via the Lean kernel and the NanoDa kernel using Comparator, ensuring the codebase builds under standard foundational axioms (`propext`, `Classical.choice`, and `Quot.sound`) with zero usage of `sorryAx`.
 
-**Statement Fidelity**: An automated language model review confirms that the formal Lean 4 statement (closed_form_evaluation) matches the informal mathematical claim regarding the regular nonagon’s cubic subfield generator ($x^3 - 3x + 1 = 0$), checking for obvious discrepancies between the formal and informal versions.
+**Statement Fidelity**: An automated language model review confirms that the formal Lean 4 statement (`closed_form_evaluation`) matches the informal mathematical claim regarding the regular nonagon’s cubic subfield generator ($x^3 - 3x + 1 = 0$), checking for obvious discrepancies between the formal and informal versions.
 
 **Research-Interest Floor**: Confirms that the submission clears a baseline editorial and interest floor by addressing a recognizable mathematical domain with plausible structural relevance, without certifying novelty.
 
