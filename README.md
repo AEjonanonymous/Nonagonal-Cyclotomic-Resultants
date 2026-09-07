@@ -17,5 +17,9 @@ For researchers in automated reasoning and algebraic number theory, this framewo
 * **Step 4:** Inductive degree bounds for the chord sequence `chebyshev_rel` (`chebyshev_natDegree_le`).
 * **Step 5:** Homomorphic evaluation into $\mathbb{Q}(\zeta_9)$ proving exact root cancellation (`closed_form_evaluation`).
 
+## Citation
+
+* Reed, Jonathan $f(n)$. (2026). Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon via Cyclotomic Polynomial Resultants in Lean 4 with Comparator. Zenodo. https://doi.org/10.5281/zenodo.22644489
+
 **License**
 This project is released under the MIT License.
