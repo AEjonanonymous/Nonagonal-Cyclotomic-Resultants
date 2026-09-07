@@ -18,4 +18,4 @@ For researchers in automated reasoning and algebraic number theory, this framewo
 * **Step 5:** Homomorphic evaluation into $\mathbb{Q}(\zeta_9)$ proving exact root cancellation (`closed_form_evaluation`).
 
 **License**
-This project is released under the MIT License[cite: 2, 3].
+This project is released under the MIT License.
