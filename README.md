@@ -23,3 +23,6 @@ For researchers in automated reasoning and algebraic number theory, this framewo
 **License**
 
 This project is released under the MIT License.
+---
+
+Copyright © 2026 Jonathan f(n) Reed. All rights reserved.
