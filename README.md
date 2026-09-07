@@ -1,4 +1,4 @@
-# <div align="center">Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon ⑨ via Cyclotomic Polynomial Resultants 
+# <div align="center"><i>Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon</i> ⑨ <i>via Cyclotomic Polynomial Resultants</i>  
 
 ## <div align="center"> 📋 Overview
 This repository provides a machine-verified Lean 4 formalization isolating the composite $3\times3$ symmetry of the regular nonagon ($n=9$) entirely within the integer polynomial ring $\mathbb{Z}[x]$. The framework avoids transcendental functions, floating-point real numbers, and analysis libraries.
