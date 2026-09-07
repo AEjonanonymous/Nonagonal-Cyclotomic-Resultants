@@ -38,7 +38,7 @@ For researchers in automated reasoning and algebraic number theory, this framewo
 
 **Nature of Review**: This automated review does not constitute peer review, is not a journal publication, and does not carry ANY human endorsement; much like similar automated review pipelines, passing these checks indicates only that the submission cleared mechanical kernel verification, declaration matching, and language-model fidelity screening, leaving absolute mathematical validity to the type-checker.
 
-## 📚 Citation
+## 📚 Citation and References
 
 📋 `Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon via Cyclotomic Polynomial.pdf`
 
