@@ -24,6 +24,9 @@ For researchers in automated reasoning and algebraic number theory, this framewo
 💻 `Challenge.lean/Solution.lean` 
 
 ## 📚 Citation
+
+📋 `Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon via Cyclotomic Polynomial.pdf`
+
 * Reed, Jonathan $f(n)$. (2026). Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon via Cyclotomic Polynomial Resultants in Lean 4 with Comparator. Zenodo. https://doi.org/10.5281/zenodo.22644489
 
 ⚖️ License
