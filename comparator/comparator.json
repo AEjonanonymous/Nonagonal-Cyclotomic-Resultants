@@ -1,0 +1,18 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "shifted_cubic_comp_eq",
+    "shifted_cubic_irreducible",
+    "target_cubic_monic",
+    "target_cubic_irreducible_int",
+    "chebyshev_recurrence",
+    "chebyshev_natDegree_le",
+    "closed_form_evaluation"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}
