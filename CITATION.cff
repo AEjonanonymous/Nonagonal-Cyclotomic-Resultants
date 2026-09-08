@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Algebraic Closure and Composite Chord Symmetry of the Regular Nonagon via Cyclotomic Polynomial Resultants in Lean 4 with Comparator"
+version: 1.0.0
+doi: 10.5281/zenodo.22644489
+date-released: 2026-09-07
